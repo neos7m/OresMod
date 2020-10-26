@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "X#",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "oresmod:zinc_ingot"
+    }
+  },
+  "result": {
+    "item": "oresmod:zinc_axe"
+  }
+}

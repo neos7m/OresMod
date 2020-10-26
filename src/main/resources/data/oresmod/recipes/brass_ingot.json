@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "oresmod:copper_ingot"
+    },
+    {
+      "item": "oresmod:zinc_ingot"
+    }
+  ],
+  "result": {
+    "item": "oresmod:brass_ingot",
+    "count": 2
+  },
+  "experience": 0.7
+}

@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"X X",
+		"XXX",
+		"XXX"
+	],
+	"key": {
+		"X": {
+			"item": "oresmod:tin_ingot"
+		}
+	},
+	"result": {
+		"item": "oresmod:tin_chestplate"
+	}
+}

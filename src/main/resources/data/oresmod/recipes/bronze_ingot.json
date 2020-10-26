@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "oresmod:copper_ingot"
+    },
+    {
+      "item": "oresmod:tin_ingot"
+    }
+  ],
+  "result": {
+    "item": "oresmod:bronze_ingot",
+    "count": 2
+  },
+  "experience": 0.7
+}

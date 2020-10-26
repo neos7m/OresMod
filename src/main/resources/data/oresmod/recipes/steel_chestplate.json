@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"X X",
+		"XXX",
+		"XXX"
+	],
+	"key": {
+		"X": {
+			"item": "oresmod:steel_ingot"
+		}
+	},
+	"result": {
+		"item": "oresmod:steel_chestplate"
+	}
+}
