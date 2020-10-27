@@ -45,7 +45,7 @@ I plan to translate it myself into the following languages:
 - Russian
 - Spanish
 
-I will accept translations from any other language Minecraft supports.
+I will accept translations into any other language Minecraft supports.
 
 If you want to translate the mod, make a copy of en_us.json in the 
 src/main/resources/assets/oresmod/lang folder, translate whatever is
