@@ -35,3 +35,29 @@ Moreover, you can craft armor:
 - Chestplates
 - Leggings
 - Boots
+
+## Localization
+Neos7m's Ores Mod is currently fully localized in English and Italian.
+I plan to translate it myself into the following languages:
+
+- French
+- Portuguese
+- Russian
+- Spanish
+
+Translators are wanted for the following languages:
+
+- Arabic
+- Chinese (Mandarin)
+- Danish
+- German
+- Hindi
+- Norwegian
+- Swedish
+- Urdu
+
+If you want to translate the mod, make a copy of en_us.json in the 
+src/main/resources/assets/oresmod/lang folder, translate whatever is
+to the right of the colon (:) into your language, give it the right name
+(es. zh_ch.json for Mandarin Chinese, or fr_fr for French) and make a
+pull request. I will accept it after verifying that it's complete.
