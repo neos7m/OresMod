@@ -45,19 +45,10 @@ I plan to translate it myself into the following languages:
 - Russian
 - Spanish
 
-Translators are wanted for the following languages:
-
-- Arabic
-- Chinese (Mandarin)
-- Danish
-- German
-- Hindi
-- Norwegian
-- Swedish
-- Urdu
+I will accept translations from any other language Minecraft supports.
 
 If you want to translate the mod, make a copy of en_us.json in the 
 src/main/resources/assets/oresmod/lang folder, translate whatever is
 to the right of the colon (:) into your language, give it the right name
-(es. zh_ch.json for Mandarin Chinese, or fr_fr for French) and make a
-pull request. I will accept it after verifying that it's complete.
+(es. zh_ch.json for Mandarin Chinese, or fr_fr.json for French) and make
+a pull request. I will accept it after verifying that it's complete.
